@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-export default class profileImage extends Component {
+export default class ProfileImage extends Component {
   render() {
     return (
       <div>

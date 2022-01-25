@@ -2,7 +2,7 @@
 
 import React, { Component } from "react";
 
-export default class userDetails extends Component {
+export default class UserDetails extends Component {
   render() {
     return (
       <div>

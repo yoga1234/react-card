@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-export default class buttonTopMenu extends Component {
+export default class ButtonTopMenu extends Component {
   render() {
     return (
       <div>

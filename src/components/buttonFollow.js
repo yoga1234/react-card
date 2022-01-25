@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-export default class buttonFollow extends Component {
+export default class ButtonFollow extends Component {
   render() {
     return (
       <div>
