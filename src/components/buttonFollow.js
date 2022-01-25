@@ -1,11 +1,13 @@
 import React, { Component } from "react";
+import add from "../images/icons/add.png";
 
 export default class ButtonFollow extends Component {
   render() {
     return (
-      <div>
-        <h3>This is follow button</h3>
-      </div>
+      <button className="button-follow">
+        <img src={add} alt="add following" />
+        Follow
+      </button>
     );
   }
 }

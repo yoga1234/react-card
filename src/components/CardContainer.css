@@ -1,0 +1,108 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800&family=Quicksand:wght@700&display=swap");
+:root {
+  --color-topMenu: #f2f2f2;
+  --color-white: #fff;
+  --color-follow: #3cd278;
+  --color-font-basic: #444;
+  --color-nameTag: #949494;
+  --color-socmedBg: #e7e7e7;
+}
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+}
+.card-container {
+  border: 1px solid #000;
+  min-width: 220px;
+  max-width: 320px;
+}
+.button-follow {
+  background-color: var(--color-follow);
+  border: none;
+  border-radius: 100px;
+  color: var(--color-white);
+  cursor: pointer;
+  font-size: 14px;
+  font-family: "Quicksand", sans-serif;
+  font-weight: 700;
+  padding: 7px 12px;
+  box-shadow: 0px 2px 5px rgba(60, 210, 120, 0.25);
+}
+.button-follow img {
+  width: 16.5px;
+  height: 12px;
+  margin-right: 5.75px;
+}
+.name-container {
+  font-family: inherit;
+  display: flex;
+}
+.user-details {
+  margin: 13px 16px 16px 16px;
+}
+.username {
+  color: var(--color-font-basic);
+  font-size: 14px;
+  font-weight: 600;
+  margin-right: 4px;
+  margin-bottom: 8px;
+}
+.nametag {
+  font-size: 12px;
+  color: var(--color-nameTag);
+  margin-top: 1px;
+}
+.bio-desc {
+  font-size: 12px;
+  color: var(--color-font-basic);
+  width: 100%;
+}
+.follower-container {
+  display: flex;
+  column-gap: 8px;
+  color: var(--color-font-basic);
+  font-size: 12px;
+  margin-top: 16px;
+}
+.followers {
+  font-weight: 800;
+}
+.followers .followers-text {
+  font-weight: 600;
+}
+.job {
+  font-weight: 600;
+}
+.profile-dot {
+  width: 4px;
+  height: 4px;
+  background-color: var(--color-socmedBg);
+  border-radius: 50%;
+  margin-top: 6px;
+}
+.socialmedia-container {
+  display: flex;
+  margin-left: 16px;
+}
+.socialmedia {
+  cursor: pointer;
+  position: relative;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: var(--color-socmedBg);
+  text-align: center;
+  margin-right: 8px;
+  margin-bottom: 16px;
+}
+.socialmedia img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 20px;
+}

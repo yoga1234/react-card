@@ -10,7 +10,7 @@ import "./CardContainer.css";
 export default class CardContainer extends Component {
   render() {
     return (
-      <div>
+      <div className="card-container">
         <HeaderBg />
         <ButtonTopMenu />
         <ProfileImage />
