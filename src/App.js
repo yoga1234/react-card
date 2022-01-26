@@ -10,13 +10,22 @@ export default class App extends Component {
   componentDidMount() {
     const dotContainer = document.querySelectorAll(".dot-container");
     const followButton = document.querySelectorAll(".button-follow");
+    const socmedButton = document.querySelectorAll(".socialmedia");
 
     function alertClick() {
       alert("You are clicking on top menu!");
     }
 
+    socmedButton.forEach((item) => {
+      item.addEventListener("click", (e) => {
+        e.preventDefault();
+        alert("You are clicking on " + item.classList[1]);
+      });
+    });
+
     followButton.forEach((button) => {
-      button.addEventListener("click", () => {
+      button.addEventListener("click", (e) => {
+        e.preventDefault();
         if (button.innerText.trim() === "Follow") {
           button.innerHTML = `<img src=${check} alt="add following" />
           Following`;

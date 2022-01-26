@@ -12,20 +12,20 @@ export default class SocialMedia extends Component {
   render() {
     return (
       <div className="socialmedia-container">
-        <div className="socialmedia">
-          <img src={facebook} alt="facebook" />
+        <div className="socialmedia facebook">
+          <img className="socialmedia-icon" src={facebook} alt="facebook" />
         </div>
-        <div className="socialmedia">
-          <img src={twitter} alt="twitter" />
+        <div className="socialmedia twitter">
+          <img className="socialmedia-icon" src={twitter} alt="twitter" />
         </div>
-        <div className="socialmedia">
-          <img src={instagram} alt="instagram" />
+        <div className="socialmedia instagram">
+          <img className="socialmedia-icon" src={instagram} alt="instagram" />
         </div>
-        <div className="socialmedia">
-          <img src={youtube} alt="youtube" />
+        <div className="socialmedia youtube">
+          <img className="socialmedia-icon" src={youtube} alt="youtube" />
         </div>
-        <div className="socialmedia">
-          <img src={more} alt="more" />
+        <div className="socialmedia more">
+          <img className="socialmedia-icon" src={more} alt="more" />
         </div>
       </div>
     );
