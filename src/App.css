@@ -1,5 +1,6 @@
 .App {
   display: flex;
+  justify-content: center;
   column-gap: 12px;
   row-gap: 12px;
   margin: 100px auto;
