@@ -23,6 +23,7 @@ export default class CardContainer extends Component {
           name={this.props.name}
           nametag={this.props.nametag}
           biodesc={this.props.biodesc}
+          job={this.props.job}
         />
         <SocialMedia />
       </div>

@@ -14,7 +14,7 @@ export default class UserDetails extends Component {
             1.3k <span className="followers-text">Followers</span>
           </p>
           <div className="profile-dot"></div>
-          <p className="job">Cosplay</p>
+          <p className="job">{this.props.job}</p>
         </div>
       </div>
     );

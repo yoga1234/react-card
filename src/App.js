@@ -15,6 +15,7 @@ function App() {
           biodesc={user.biodesc}
           profilepicture={user.profilepicture}
           headerbg={user.headerbg}
+          job={user.job}
         />
       ))}
     </div>
