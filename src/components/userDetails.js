@@ -2,7 +2,6 @@ import React, { Component } from "react";
 
 export default class UserDetails extends Component {
   render() {
-    // console.log(this.props.biodesc.length);
     const biodesc =
       this.props.biodesc.length > 220
         ? this.props.biodesc.substring(0, 220) + "..."
