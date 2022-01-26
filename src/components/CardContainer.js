@@ -13,8 +13,10 @@ export default class CardContainer extends Component {
       <div className="card-container">
         <HeaderBg />
         <ButtonTopMenu />
-        <ProfileImage />
-        <ButtonFollow />
+        <div className="profile-follow-container">
+          <ProfileImage />
+          <ButtonFollow />
+        </div>
         <UserDetails />
         <SocialMedia />
       </div>
