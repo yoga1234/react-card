@@ -16,7 +16,10 @@ body {
   font-family: "Montserrat", sans-serif;
 }
 .card-container {
-  border: 1px solid #000;
+  border: 1px solid var(--color-socmedBg);
+  border-radius: 8px;
+  width: 310px;
+  height: 303px;
   min-width: 220px;
   max-width: 320px;
   position: relative;
@@ -28,18 +31,30 @@ body {
   position: absolute;
   top: 12px;
   right: 18px;
+  cursor: pointer;
 }
 .dot {
-  width: 6px;
-  height: 6px;
+  width: 5px;
+  height: 5px;
   background-color: var(--color-topMenu);
   border-radius: 50%;
+}
+.headerBg {
+  width: 100%;
+  border-radius: 8px 8px 0 0;
+  overflow: hidden;
+}
+.headerBg img {
+  width: 100%;
+  height: 92px;
 }
 .profile-follow-container {
   display: flex;
   justify-content: space-between;
   padding-left: 16px;
   padding-right: 16px;
+  position: relative;
+  bottom: 40px;
 }
 .profile-picture img {
   border: 5px solid var(--color-white);
@@ -71,7 +86,7 @@ body {
   display: flex;
 }
 .user-details {
-  margin: 13px 16px 16px 16px;
+  margin: -33px 16px 16px 16px;
 }
 .username {
   color: var(--color-font-basic);
@@ -104,7 +119,7 @@ body {
   font-weight: 600;
 }
 .job {
-  font-weight: 600;
+  font-weight: 700;
 }
 .profile-dot {
   width: 4px;
@@ -116,6 +131,7 @@ body {
 .socialmedia-container {
   display: flex;
   margin-left: 16px;
+  margin-bottom: 16px;
 }
 .socialmedia {
   cursor: pointer;
@@ -126,7 +142,6 @@ body {
   background-color: var(--color-socmedBg);
   text-align: center;
   margin-right: 8px;
-  margin-bottom: 16px;
 }
 .socialmedia img {
   position: absolute;
