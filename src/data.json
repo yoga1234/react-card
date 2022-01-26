@@ -4,25 +4,33 @@
       "id": 1,
       "name": "Septiana Yoga",
       "nametag": "septianayoga",
-      "biodesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis convallis tellus, ac ornare mauris. Aliquam at volutpat sem. Pellentesque sapien mauris, tempor nec facilisis et, pellentesque eu libero."
+      "biodesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis convallis tellus, ac ornare mauris. Aliquam at volutpat sem. Pellentesque sapien mauris, tempor nec facilisis et, pellentesque eu libero.",
+      "profilepicture": "https://scontent.fbdo9-1.fna.fbcdn.net/v/t1.6435-9/42510095_2090037627675798_9131691325651943424_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeE6oESgSc64yr3ZmeggUrvLs4_qWZDj8uSzj-pZkOPy5IuWzCXeur8Smog5Gjx62XDADTnonS7dpshzwFaN9y51&_nc_ohc=vMUr7WMx5SgAX-uFWx5&tn=jQ5U3QYk8cj0cC6Z&_nc_ht=scontent.fbdo9-1.fna&oh=00_AT_7dHBXz80PzXnhUPwSq_USZ3yjkI9j1vP0lARh6ujSbQ&oe=62174B7C",
+      "headerbg": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/9757d496-239b-46c5-baea-6873cbfe9b3d/dcxuluw-e775a5eb-1082-4bf7-89fe-ff6b03fc1a3b.jpg/v1/fill/w_622,h_350,q_70,strp/just_a_tree_and_a_breeze____by_joeyjazz_dcxuluw-350t.jpg"
     },
     {
       "id": 2,
       "name": "Yukinoshita",
       "nametag": "yukinoshita",
-      "biodesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis convallis tellus, ac ornare mauris. Aliquam at volutpat sem. Pellentesque sapien mauris, tempor nec facilisis et, pellentesque eu libero."
+      "biodesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis convallis tellus, ac ornare mauris. Aliquam at volutpat sem. Pellentesque sapien mauris, tempor nec facilisis et, pellentesque eu libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis convallis tellus, ac ornare mauris. Aliquam at volutpat sem. Pellentesque sapien mauris, tempor nec facilisis et, pellentesque eu libero.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis convallis tellus, ac ornare mauris. Aliquam at volutpat sem. Pellentesque sapien mauris, tempor nec facilisis et, pellentesque eu libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis convallis tellus, ac ornare mauris. Aliquam at volutpat sem. Pellentesque sapien mauris, tempor nec facilisis et, pellentesque eu libero.",
+      "profilepicture": "https://c4.wallpaperflare.com/wallpaper/432/692/1019/anime-my-teen-romantic-comedy-snafu-yukino-yukinoshita-wallpaper-preview.jpg",
+      "headerbg": "https://wallpapercave.com/wp/wp4412918.jpg"
     },
     {
       "id": 3,
       "name": "Barbara",
       "nametag": "barbarb",
-      "biodesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis convallis tellus, ac ornare mauris. Aliquam at volutpat sem. Pellentesque sapien mauris, tempor nec facilisis et, pellentesque eu libero."
+      "biodesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis convallis tellus, ac ornare mauris. Aliquam at volutpat sem. Pellentesque sapien mauris, tempor nec facilisis et, pellentesque eu libero.",
+      "profilepicture": "https://images5.alphacoders.com/110/thumb-1920-1107810.jpg",
+      "headerbg": "https://www.sukaon.com/wp-content/uploads/2020/08/Genshin-Impact_Key-Art-EN-1.jpg"
     },
     {
       "id": 4,
       "name": "Kirigaya",
       "nametag": "kirikazu",
-      "biodesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis convallis tellus, ac ornare mauris. Aliquam at volutpat sem. Pellentesque sapien mauris, tempor nec facilisis et, pellentesque eu libero."
+      "biodesc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis convallis tellus, ac ornare mauris. Aliquam at volutpat sem. Pellentesque sapien mauris, tempor nec facilisis et, pellentesque eu libero.",
+      "profilepicture": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/48d8f77c-3726-46f0-90b9-8220dffd5162/d8rcrwu-ce8e80bf-3e51-45fd-ad11-3b1541029c16.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQ4ZDhmNzdjLTM3MjYtNDZmMC05MGI5LTgyMjBkZmZkNTE2MlwvZDhyY3J3dS1jZThlODBiZi0zZTUxLTQ1ZmQtYWQxMS0zYjE1NDEwMjljMTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.HVx4lG_iF7yMx4ykzLQJiNLJMBaIcK9NVd0FS5vIRf0",
+      "headerbg": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f702b429-79be-4907-8a8e-1ba8613ebe00/d92hf0x-17be56a4-39c3-4760-a583-841dd9f5d516.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y3MDJiNDI5LTc5YmUtNDkwNy04YThlLTFiYTg2MTNlYmUwMFwvZDkyaGYweC0xN2JlNTZhNC0zOWMzLTQ3NjAtYTU4My04NDFkZDlmNWQ1MTYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.9HzEomJRkCcxv7XLPh78W1otMyxJE5oK0k138vEZk38"
     }
   ]
 }

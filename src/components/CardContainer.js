@@ -13,10 +13,10 @@ export default class CardContainer extends Component {
     // console.log(name);
     return (
       <div className="card-container">
-        <HeaderBg />
+        <HeaderBg headerbg={this.props.headerbg} />
         <ButtonTopMenu />
         <div className="profile-follow-container">
-          <ProfileImage />
+          <ProfileImage profilepicture={this.props.profilepicture} />
           <ButtonFollow />
         </div>
         <UserDetails

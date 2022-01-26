@@ -13,6 +13,8 @@ function App() {
           name={user.name}
           nametag={user.nametag}
           biodesc={user.biodesc}
+          profilepicture={user.profilepicture}
+          headerbg={user.headerbg}
         />
       ))}
     </div>

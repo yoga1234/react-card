@@ -5,7 +5,7 @@ export default class HeaderBg extends Component {
   render() {
     return (
       <div className="headerBg">
-        <img src={headerbgdummy} alt="header profile" />
+        <img src={this.props.headerbg ? this.props.headerbg : headerbgdummy} alt="header profile" />
       </div>
     );
   }
