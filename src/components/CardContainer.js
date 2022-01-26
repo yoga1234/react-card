@@ -9,6 +9,8 @@ import "./CardContainer.css";
 
 export default class CardContainer extends Component {
   render() {
+    // const name = this.props.name;
+    // console.log(name);
     return (
       <div className="card-container">
         <HeaderBg />
@@ -17,7 +19,11 @@ export default class CardContainer extends Component {
           <ProfileImage />
           <ButtonFollow />
         </div>
-        <UserDetails />
+        <UserDetails
+          name={this.props.name}
+          nametag={this.props.nametag}
+          biodesc={this.props.biodesc}
+        />
         <SocialMedia />
       </div>
     );
